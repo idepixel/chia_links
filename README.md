@@ -10,6 +10,7 @@
 | Chia calculator | [https://chiacalculator.com/][PlMe] |
 | Chia plot plan | [https://plot-plan.chia.foxypool.io/][PlGa] |
 | Chia plotting calculator | [https://artofpc.com/chia-plotting-calculator/][PlGb] |
+| Chia hpool calculator | [https://hpoolchiacalculator.com/][PlRf] |
 
 ## Chia useful tutorials
 ---
@@ -58,6 +59,7 @@ MIT
    [PlGd]: <https://chiapower.org/>
    [PlOd]: <https://chiadecentral.com/>
    [PlMe]: <https://chiacalculator.com/>
+   [PlRf]: <https://hpoolchiacalculator.com/>
    [PlGa]: <https://plot-plan.chia.foxypool.io/>
    [PlGb]: <https://artofpc.com/chia-plotting-calculator/>
    
